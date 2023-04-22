@@ -1,6 +1,6 @@
 # packageurl-go
 
-[![build](https://github.com/nextlinux/packageurl-go/workflows/test/badge.svg)](https://github.com/nextlinux/packageurl-go/actions?query=workflow%3Atest) [![Coverage Status](https://coveralls.io/repos/github/nextlinux/packageurl-go/badge.svg)](https://coveralls.io/github/nextlinux/packageurl-go) [![PkgGoDev](https://pkg.go.dev/badge/github.com/nextlinux/packageurl-go)](https://pkg.go.dev/github.com/nextlinux/packageurl-go) [![Go Report Card](https://goreportcard.com/badge/github.com/nextlinux/packageurl-go)](https://goreportcard.com/report/github.com/nextlinux/packageurl-go)
+[![build](https://github.com/nextlinux/packageurl-go/workflows/test/badge.svg)](https://github.com/nextlinux/packageurl-go/actions?query=workflow%3Atest) [![Coverage Status](https://coveralls.io/repos/github/NeXTLinux/packageurl-go/badge.svg?branch=master)](https://coveralls.io/github/NeXTLinux/packageurl-go?branch=master) [![PkgGoDev](https://pkg.go.dev/badge/github.com/nextlinux/packageurl-go)](https://pkg.go.dev/github.com/nextlinux/packageurl-go) [![Go Report Card](https://goreportcard.com/badge/github.com/nextlinux/packageurl-go)](https://goreportcard.com/report/github.com/nextlinux/packageurl-go)
 
 Go implementation of the package url spec.
 
