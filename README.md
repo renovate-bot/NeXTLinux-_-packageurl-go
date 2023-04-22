@@ -7,7 +7,7 @@ Go implementation of the package url spec.
 
 ## Install
 ```
-go get -u github.com/package-url/packageurl-go
+go get -u github.com/nextlinux/packageurl-go
 ```
 
 ## Versioning
@@ -24,7 +24,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/package-url/packageurl-go"
+	"github.com/nextlinux/packageurl-go"
 )
 
 func main() {
@@ -40,7 +40,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/package-url/packageurl-go"
+	"github.com/nextlinux/packageurl-go"
 )
 
 func main() {
@@ -66,5 +66,5 @@ go test -v -cover ./...
 --- PASS: TestToStringExamples (0.00s)
 PASS
 coverage: 94.7% of statements
-ok      github.com/package-url/packageurl-go    0.002s
+ok      github.com/nextlinux/packageurl-go    0.002s
 ```
