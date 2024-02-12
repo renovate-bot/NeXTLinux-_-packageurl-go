@@ -17,7 +17,7 @@ jobs:
       - name: Test go fmt
         run: test -z $(go fmt ./...)
       - name: Golangci-lint
-        uses: golangci/golangci-lint-action@v2
+        uses: golangci/golangci-lint-action@v4
         with:
           only-new-issues: true
       - name: Test coverage
